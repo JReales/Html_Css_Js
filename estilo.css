@@ -1,0 +1,28 @@
+h1 {
+  color: rgb(248, 4, 4);
+  font-size: 1em;
+}
+
+h2 {
+  color: #0f0;
+  font-size: 16px;
+}
+
+.parrafos {
+  color: #aaa;
+}
+
+#aaa {
+  color: #5d8aa8;
+}
+#element {
+  color: #0ff;
+}
+
+h1:hover {
+  color: #ff0;
+}
+
+.video {
+  width: 10%;
+}
